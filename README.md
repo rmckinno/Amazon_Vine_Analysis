@@ -3,8 +3,8 @@
 <img src=images/filter_total_votes.png align=right height=400 width=500 >
 <img src=images/clean_vine_filtered.png align=right height=400 width=500 >
 <img src=images/Vine_vs_nonVine.png align=right height=400 width=1000 > <br></br>
-<img src=images/calculations.png align=right height=400 width=500 >
-<img src=images/print.png align=right height=400 width=500 >
+<img src=images/calculations.png align=right height=400 width=1000 >
+<img src=images/print.png align=right height=400 width=1000 >
 
 # Amazon_Vine_Analysis
 Extracting a large dataset from AWS to transform and perform analysis 
