@@ -1,3 +1,6 @@
+# Amazon_Vine_Analysis
+Extracting a large dataset from AWS to transform and perform analysis 
+
 <img src=images/df.png align=right height=400 width=500 >
 <img src=images/vine_df.png align=right height=400 width=500 ><br></br>
 <img src=images/filter_total_votes.png align=right height=400 width=500 >
@@ -5,9 +8,6 @@
 <img src=images/Vine_vs_nonVine.png align=right height=400 width=1000 > <br></br>
 <img src=images/calculations.png align=right height=400 width=1000 >
 <img src=images/print.png align=right height=400 width=1000 >
-
-# Amazon_Vine_Analysis
-Extracting a large dataset from AWS to transform and perform analysis 
 
 ## Overview of the analysis 
 The luggage reviews dataset from Amazon Review datasets is extracted from AWS and transformed using PySPark in Google's CoLab. Multiple dataframes are created. The vine_table DataFrame is used to determine if there is any bias between the reviews that are part of the Vine program versus reviews received that are not from the Vine program. Amazon Vine is a product review program. A small fee to Amazon allows companies to provide trusted reviewers with their product and those customers must provide a review. The images to right contains all code for extracting, filtering, and performing calculations on the luggage dataset.
