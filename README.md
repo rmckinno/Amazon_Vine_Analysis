@@ -2,7 +2,7 @@
 <img src=images/vine_df.png align=right height=400 width=500 ><br></br>
 <img src=images/filter_total_votes.png align=right height=400 width=500 >
 <img src=images/clean_vine_filtered.png align=right height=400 width=500 >
-<img src=images/Vine_vs_nonVine.png align=right height=400 width=1000 >
+<img src=images/Vine_vs_nonVine.png align=right height=400 width=1000 > <br></br>
 <img src=images/calculations.png align=right height=400 width=600 >
 <img src=images/print.png align=right height=400 width=600 >
 
